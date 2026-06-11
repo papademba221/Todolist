@@ -47,6 +47,8 @@ ul{
     width: 100%;
     list-style: none;
     padding: 0;
+    max-height: 80vh;
+    overflow-y: auto;
 }
 
 ul li{
